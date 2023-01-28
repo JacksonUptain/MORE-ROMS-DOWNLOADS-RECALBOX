@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Système Apple II (Ordinateur)
+=======================================================================
+
+Copiez vos roms Apple II ici.
+Les extensions supportées sont: .do .nib .po .iie .dsk
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+linapple-linapple supporte des fichiers de type .do .po .nib .dsk .iie et n'est pas compatible netplay.
+gsplus-gsplus supporte des fichiers de type .do .po .nib .dsk et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont optionelles
+- Un clavier est obligatoire
+- Une souris est recommandée
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/apple-2

@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: Système Acorn BBC Micro (Ordinateur)
+=======================================================================
+
+Copiez vos roms Acorn BBC Micro ici.
+Les extensions supportées sont: .csw .adf .zip .dsd .adl .ssd .uef .m3u
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+beebem-beebem supporte des fichiers de type .adf .adl .csw .dsd .m3u .ssd .uef .zip et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont recommandées
+- Un clavier est recommandé
+- Une souris est optionelle
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/bbc-micro

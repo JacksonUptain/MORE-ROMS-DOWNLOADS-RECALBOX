@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: Système Nintendo 64DD (Console de Salon)
+=======================================================================
+
+Copiez vos roms Nintendo 64DD ici.
+Les extensions supportées sont: .z64 .v64 .ndd .bin .n64
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-parallel_n64 supporte des fichiers de type .ndd .bin et n'est pas compatible netplay.
+libretro-mupen64plus_next supporte des fichiers de type .n64 .ndd .v64 .z64 et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est optionelle
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/nintendo-64-dd

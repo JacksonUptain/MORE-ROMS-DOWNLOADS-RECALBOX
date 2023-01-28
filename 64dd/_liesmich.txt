@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: System Nintendo 64DD (Heimkonsole)
+=======================================================================
+
+Kopiere deine Nintendo 64DD roms hier her.
+Unterstützte Dateierweiterungen sind: .z64 .v64 .ndd .bin .n64
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-parallel_n64 unterstüzt .ndd .bin und ist NICHT kompatibel mit Netplay.
+libretro-mupen64plus_next unterstüzt .n64 .ndd .v64 .z64 und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist optional
+
+

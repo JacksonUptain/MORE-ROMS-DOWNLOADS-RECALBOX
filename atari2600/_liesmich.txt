@@ -1,0 +1,20 @@
+=======================================================================
+# RECALBOX: System Atari 2600 (Heimkonsole)
+=======================================================================
+
+Kopiere deine Atari 2600 roms hier her.
+Unterstützte Dateierweiterungen sind: .bin .a26 .zip .7z
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-stella unterstüzt .a26 .bin .zip .7z und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: Système Atari 5200 (Console de Salon)
+=======================================================================
+
+Copiez vos roms Atari 5200 ici.
+Les extensions supportées sont: .xex .xfd .zip .bin .xfd.gz .atr .a52 .car .atr.gz .bas .cdm
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-atari800 supporte des fichiers de type .a52 .atr .bas .bin .car .cdm .xex .xfd .atr.gz .xfd.gz .zip et n'est pas compatible netplay.
+libretro-a5200 supporte des fichiers de type .a52 .bin .zip et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/atari-5200

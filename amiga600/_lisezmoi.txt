@@ -1,0 +1,25 @@
+=======================================================================
+# RECALBOX: Système Amiga 600 (Ordinateur)
+=======================================================================
+
+Copiez vos roms Amiga 600 ici.
+Les extensions supportées sont: .hdz .lzx .dms .ipf .adf .rp9 .adz .lha .zip .lhz .hdf .fdi .m3u
+
+Ce système peut être émulé par 3 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+amiberry-amiberry supporte des fichiers de type .adf .ipf .dms .fdi .hdf .hdz .lha .lhz .lzx .rp9 .zip et n'est pas compatible netplay.
+libretro-puae supporte des fichiers de type .adf .adz .dms .hdf .hdz .ipf .lha .lhz .lzx .m3u .zip et n'est pas compatible netplay.
+libretro-uae4arm supporte des fichiers de type .adf .adz .dms .hdf .hdz .ipf .lha .lhz .lzx .m3u .zip et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est optionel
+- Une souris est optionelle
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/amiga-600

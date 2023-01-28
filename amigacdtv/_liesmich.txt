@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: System Amiga CDTV (Heimkonsole)
+=======================================================================
+
+Kopiere deine Amiga CDTV roms hier her.
+Unterstützte Dateierweiterungen sind: .nrg .ccd .uae .zip .mds .iso .cue .chd .m3u
+
+Dieses System kann mit 3 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+amiberry-amiberry unterstüzt .cue .iso .ccd und ist NICHT kompatibel mit Netplay.
+libretro-uae4arm unterstüzt .ccd .chd .cue .iso .mds .m3u .nrg .uae und ist NICHT kompatibel mit Netplay.
+libretro-puae unterstüzt .ccd .chd .cue .iso .mds .m3u .nrg .uae .zip und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist optional
+- Eine Maus ist optional
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

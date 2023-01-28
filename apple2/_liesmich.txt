@@ -1,0 +1,18 @@
+=======================================================================
+# RECALBOX: System Apple II (Computer)
+=======================================================================
+
+Kopiere deine Apple II roms hier her.
+Unterstützte Dateierweiterungen sind: .do .nib .po .iie .dsk
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+linapple-linapple unterstüzt .do .po .nib .dsk .iie und ist NICHT kompatibel mit Netplay.
+gsplus-gsplus unterstüzt .do .po .nib .dsk und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist optional
+- Ein Keyboard ist pflicht
+- Eine Maus ist empfohlen
+
+

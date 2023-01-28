@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1659465841">
+		<path>Asteroids.zip</path>
+		<hash>EAC69CF0</hash>
+		<region>248</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Shooter,Action</genre>
+		<publisher>Atari</publisher>
+		<developer>Atari</developer>
+		<releasedate>19871031T230000</releasedate>
+		<video>media/videos/Asteroids 38d31f9e763fba3e72e7e146165e3fce.mp4</video>
+		<thumbnail>media/thumbnails/Asteroids 43592b15868c2e69d09d100e6d58d4df.png</thumbnail>
+		<image>media/images/Asteroids 5b2e5c56f2432ad9d50b7c7b61d34a2b.png</image>
+		<desc>Asteroids is a conversion of the arcade game of the same name.
+
+Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.
+
+The player using the controller may rotate the ship (left or right) to any direction or move the ship forward. Shots will be fired according to the ship direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid collision. The warp however, may also destroy the spaceship in the process.
+
+Asteroids when shot will break-up into smaller pieces or be destroyed.. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot, will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed. 
+
+Alien Robot Saucers come in two sizes: small and large. Both use photon lasers to shoot and will explode when destroyed. Alien Robot Saucers will not appear at the Novice Level.
+
+Game Difficulty and Variations
+There are 4 available difficulty settings: Novice, Intermediate, Advanced, and Expert. 
+
+The game also offers three different game variations:
+
+1. Standard Play - For one or two players, taking turns when a player's ship is destroyed.
+
+2. Competition Asteroids - Two players appear on the screen at the same time. Friendly fire is in affect, which means shots fired from one player's spaceship will destroy the other player's spaceship. Each player has separate ship reserves.
+
+3. Team Asteroids - Two players on the screen at the same time. Friendly fire is disabled, which means shots fired from one player's spaceship will not destroy the other player's spaceship and just pass through. Ship reserves for both players are combined.
+
+Scoring
+The score of the Player 1 is viewable on the upper left side of the screen, while Player 2 on the opposite upper right side. A player will be awarded a new reserve ship for every 10,000 points.
+
+1. Small saucer - 1,000 points
+2. Other player's ship - 500 points
+3. Large saucer - 200 points
+4. Small asteroid - 100 points
+5. Medium asteroid  - 50 points
+6. Large asteroid - 20 points</desc>
+		<rating>0.75000</rating>
+		<name>Asteroids</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465803">
+		<path>Robotron 2084.zip</path>
+		<hash>AB7BC9CE</hash>
+		<lastplayed>20220802T174744</lastplayed>
+		<playcount>1</playcount>
+		<region>248</region>
+		<players>1-2</players>
+		<genreid>256</genreid>
+		<genre>Action</genre>
+		<publisher>Atari</publisher>
+		<developer>Williams</developer>
+		<releasedate>19861231T230000</releasedate>
+		<video>media/videos/Robotron - 2084 da1b5c036ad9c186031e3d9e3e67d619.mp4</video>
+		<thumbnail>media/thumbnails/Robotron - 2084 a7776e4445f36a93ee22579fd88d6838.png</thumbnail>
+		<image>media/images/Robotron - 2084 f3276e4383987f12e1ae164ed44c8c17.png</image>
+		<desc>This is a port of the arcade game of the same name.
+
+You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<rating>0.90000</rating>
+		<name>Robotron : 2084</name>
+	</game>
+</gameList>

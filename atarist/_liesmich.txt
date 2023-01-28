@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: System Atari ST (Computer)
+=======================================================================
+
+Kopiere deine Atari ST roms hier her.
+Unterstützte Dateierweiterungen sind: .ipf .stx .zip .7z .m3u .ctr .st .msa .raw .dim
+
+Dieses System kann mit 2 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-hatari unterstüzt .st .stx .ipf .m3u .msa .dim .zip .7z und ist NICHT kompatibel mit Netplay.
+hatari-hatari unterstüzt .ctr .dim .ipf .msa .raw .st .stx und ist NICHT kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist empfohlen
+- Ein Keyboard ist pflicht
+- Eine Maus ist empfohlen
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+

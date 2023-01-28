@@ -1,0 +1,22 @@
+=======================================================================
+# RECALBOX: Sistema Amiga 1200 (Computador)
+=======================================================================
+
+Copie suas roms de Amiga 1200 aqui.
+As extensões suportadas são: .hdz .lzx .dms .ipf .adf .rp9 .adz .lha .zip .lhz .hdf .fdi .m3u
+
+Esse sistema podem ser emulados usando 3 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+amiberry-amiberry suporta arquivos de .adf .ipf .dms .fdi .hdf .hdz .lha .lhz .lzx .rp9 .zip e NÃO é compatível com netplay/jogo em rede.
+libretro-puae suporta arquivos de .adf .adz .dms .hdf .hdz .ipf .lha .lhz .lzx .m3u .zip e NÃO é compatível com netplay/jogo em rede.
+libretro-uae4arm suporta arquivos de .adf .adz .dms .hdf .hdz .ipf .lha .lhz .lzx .m3u .zip e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é opcional
+- Mouse é opcional
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

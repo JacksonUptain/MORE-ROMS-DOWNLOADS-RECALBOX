@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Sistema Amiga CD32 (Console caseiro)
+=======================================================================
+
+Copie suas roms de Amiga CD32 aqui.
+As extensões suportadas são: .ccd .uae .mds .iso .m3u .cue .chd .nrg
+
+Esse sistema podem ser emulados usando 3 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+amiberry-amiberry suporta arquivos de .cue .iso .ccd e NÃO é compatível com netplay/jogo em rede.
+libretro-uae4arm suporta arquivos de .cue .ccd .chd .nrg .mds .iso .uae .m3u e NÃO é compatível com netplay/jogo em rede.
+libretro-puae suporta arquivos de .cue .ccd .chd .nrg .mds .iso .uae .m3u e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é obrigatório
+- Teclado é opcional
+- Mouse é opcional
+
+

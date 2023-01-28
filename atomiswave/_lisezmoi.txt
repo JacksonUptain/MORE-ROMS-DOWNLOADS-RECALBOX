@@ -1,0 +1,19 @@
+=======================================================================
+# RECALBOX: Système Sammy Atomiswave (Systeme Arcade)
+=======================================================================
+
+Copiez vos roms Sammy Atomiswave ici.
+Les extensions supportées sont: .zip .7z
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-flycast supporte des fichiers de type .zip .7z et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/arcade/atomiswave

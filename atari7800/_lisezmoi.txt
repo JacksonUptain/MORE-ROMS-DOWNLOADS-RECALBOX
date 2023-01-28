@@ -1,0 +1,23 @@
+=======================================================================
+# RECALBOX: Système Atari 7800 (Console de Salon)
+=======================================================================
+
+Copiez vos roms Atari 7800 ici.
+Les extensions supportées sont: .bin .zip .7z .a78
+
+Ce système peut être émulé par 1 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-prosystem supporte des fichiers de type .a78 .bin .zip .7z et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont obligatoires !
+- Un clavier est inutile
+- Une souris est inutile
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/consoles/atari-7800

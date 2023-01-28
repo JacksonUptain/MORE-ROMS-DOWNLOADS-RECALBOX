@@ -1,0 +1,28 @@
+=======================================================================
+# RECALBOX: Sistema Commodore 64 (Computador)
+=======================================================================
+
+Copie suas roms de Commodore 64 aqui.
+As extensões suportadas são: .g6z .p00 .g41 .vsf .b0 .d80 .gz .x64 .x6z .d71 .60 .tap .d82 .d64 .d7z .m3u .vfl .rom .d8z .zip .prg .bin .nbz .40 .g64 .d81 .nib .t64 .7z .cmd .d6z .20 .g4z .crt .a0
+
+Esse sistema podem ser emulados usando 9 emuladores.
+Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
+libretro-vice_x64 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_x64sc suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xplus4 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xpet suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xvic suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz .20 .40 .60 .a0 .b0 .rom e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_x128 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xscpu64 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xcbm2 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+libretro-vice_xcbm5x0 suporta arquivos de .d64 .d6z .d71 .d7z .d80 .d81 .d82 .d8z .g64 .g6z .g41 .g4z .x64 .x6z .nib .nbz .t64 .tap .prg .p00 .crt .bin .cmd .m3u .vfl .vsf .zip .7z .gz e NÃO é compatível com netplay/jogo em rede.
+
+Dispositivo necessário:
+- Controle é recomendado
+- Teclado é obrigatório
+- Mouse é opcional
+
+Este sistema permite usar roms compactadas em .zip e/ou .7z.
+Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.
+Cada arquivo .zip/.7z deve conter apenas uma rom compactada.
+

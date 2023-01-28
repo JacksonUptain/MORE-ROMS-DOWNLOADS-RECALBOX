@@ -1,0 +1,24 @@
+=======================================================================
+# RECALBOX: Système AmstradCPC (Ordinateur)
+=======================================================================
+
+Copiez vos roms AmstradCPC ici.
+Les extensions supportées sont: .cdt .zip .sna .7z .dsk .m3u
+
+Ce système peut être émulé par 2 émulateurs differents.
+Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
+libretro-cap32 supporte des fichiers de type .cdt .dsk .m3u .sna .zip .7z et n'est pas compatible netplay.
+libretro-crocods supporte des fichiers de type .dsk .zip .7z et n'est pas compatible netplay.
+
+Périphériques supportés :
+- Les manettes sont recommandées
+- Un clavier est obligatoire
+- Une souris est optionelle
+
+Ce système supporte également les roms compressées au format .zip/.7z.
+Attention toutefois, il ne s'agit que d'une archive.
+Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions citées précédemment.
+De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
+
+Consultez la documentation à cette adresse :
+https://wiki.recalbox.com/fr/emulators/computers/amstrad-cpc

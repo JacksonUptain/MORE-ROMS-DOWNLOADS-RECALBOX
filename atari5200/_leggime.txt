@@ -1,0 +1,21 @@
+=======================================================================
+# RECALBOX: Sistema Atari 5200 (Console da Tavolo)
+=======================================================================
+
+Copia qui le rom per Atari 5200.
+I file supportati sono: .xex .xfd .zip .bin .xfd.gz .atr .a52 .car .atr.gz .bas .cdm
+
+Questo sistema può essere emulato con 2 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+libretro-atari800 supporta i file di .a52 .atr .bas .bin .car .cdm .xex .xfd .atr.gz .xfd.gz .zip e NON è compatibile con Netplay.
+libretro-a5200 supporta i file di .a52 .bin .zip e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è obbligatorio
+- La Tastiera è non necessaria
+- Il Mouse è non necessario
+
+Questo sistema permette di utilizzare rom compresse in formato .zip o .7z.
+Ma si tratta solamente di un file d'archivio. I file all'interno del .zip/.7z devono combaciare con le estensioni menzionate in precedenza.
+Ogni .zip/.7z deve contenere solamente una rom compressa.
+

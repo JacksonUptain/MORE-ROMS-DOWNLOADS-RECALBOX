@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: System Panasonic 3DO (Heimkonsole)
+=======================================================================
+
+Kopiere deine Panasonic 3DO roms hier her.
+Unterstützte Dateierweiterungen sind: .iso .chd .cue
+
+Dieses System kann mit 1 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-opera unterstüzt .chd .cue .iso und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist nutzlos
+
+

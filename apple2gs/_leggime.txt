@@ -1,0 +1,17 @@
+=======================================================================
+# RECALBOX: Sistema Apple IIGS (Computer)
+=======================================================================
+
+Copia qui le rom per Apple IIGS.
+I file supportati sono: .2mg .po .hdv
+
+Questo sistema può essere emulato con 1 emulatori.
+Tutti gli emulatori sono in questa lista, in ordine di compatibilità/semplicità di utilizzo:
+gsplus-gsplus supporta i file di .2mg .hdv .po e NON è compatibile con Netplay.
+
+Requisiti di sistema:
+- Il Controller è opzionale
+- La Tastiera è obbligatoria
+- Il Mouse è raccomandato
+
+
