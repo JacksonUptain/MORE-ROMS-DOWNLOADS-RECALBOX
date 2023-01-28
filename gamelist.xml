@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="1659465662">
+		<path>Batman - Return of the Joker (U) [!].zip</path>
+		<hash>5124BBEC</hash>
+		<lastplayed>19800101T010300</lastplayed>
+		<playcount>2</playcount>
+		<region>248</region>
+		<genreid>257</genreid>
+		<genre>Platform,Action</genre>
+		<publisher>Sunsoft</publisher>
+		<developer>Sunsoft</developer>
+		<releasedate>19920501T230000</releasedate>
+		<video>media/videos/Batman - Return Of The Joker f1de2c29f03e8e9af691d836a33eb4d8.mp4</video>
+		<thumbnail>media/thumbnails/Batman - Return Of The Joker 9e4da0a34ff138bebd71044872693875.png</thumbnail>
+		<image>media/images/Batman - Return Of The Joker 247c03fb5f4abdc0e1f35cd1cd11426c.png</image>
+		<desc>The seedy underworld is crawling with criminals. Even worse - the JOKER is back on top of 'em all! Law and order means nothing... until now! Because BATMAN is here - and the action is hotter than ever! Ear-crunching sound effects. Pulse-quickening music. Graphics that are as hot as 16-bit. And this time, BATMAN hits fast and hard. Flying, leaping, and sliding to attack! And striking at the heart of the JOKER. The CAPED CRUSADER has a totally new arsenal at his command: Batarang, Crossbow, Sonic Neutralizer. He's even got a superfueled jetpack. And even more powerful weapons at the touch of a button. BATMAN has got to use all of his power. Because this world is a very dark place, and you never know where the JOKER is hiding!</desc>
+		<favorite>true</favorite>
+		<rating>0.60000</rating>
+		<name>Batman : Return of the Joker</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465832">
+		<path>Amazing Spider-Man, The (UE) [!].zip</path>
+		<hash>2A4EAFE4</hash>
+		<lastplayed>19800101T010149</lastplayed>
+		<playcount>1</playcount>
+		<region>248</region>
+		<genreid>257</genreid>
+		<genre>Platform,Action</genre>
+		<publisher>LJN</publisher>
+		<developer>Rareware</developer>
+		<releasedate>19900630T230000</releasedate>
+		<video>media/videos/Amazing Spider-man The 21364c5d7b56580680dee36d8cacf814.mp4</video>
+		<thumbnail>media/thumbnails/Amazing Spider-man The 82467c91a86b6a5403e8d47c936680cf.png</thumbnail>
+		<image>media/images/Amazing Spider-man The 11c22b5f7f32d6c183597dcf06b97eac.png</image>
+		<desc>Mary Jane has been kidnapped!  One of Spider-Man's enemies has discovered his true identity, Peter Parker. Unfortunately for Spidey, exactly who has kidnapped Mary Jane is a mystery.  So, you must guide Spider-Man through 5 levels to find where she is hidden.
+
+This 1990 release is a side-scrolling action game. Spider-Man can use his web making abilities to either hang from the ceiling or shoot webs out like bullets, but most of his attacks are punches or kicks. Also included are two vertical-scrolling building climbing segments.</desc>
+		<favorite>true</favorite>
+		<rating>0.60000</rating>
+		<name>The Amazing Spider-Man</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465521">
+		<path>Street Fighter II (USA, Europe) (Rev A).zip</path>
+		<hash>54A0AAA3</hash>
+		<lastplayed>20220801T165028</lastplayed>
+		<playcount>3</playcount>
+		<region>248</region>
+		<players>1-2</players>
+		<genreid>262</genreid>
+		<genre>Action,Fight</genre>
+		<publisher>Capcom</publisher>
+		<developer>Capcom</developer>
+		<releasedate>19950831T230000</releasedate>
+		<video>media/videos/Street Fighter 2 45f4541b7255a4f86733db7a29b4dfef.mp4</video>
+		<thumbnail>media/thumbnails/Street Fighter 2 06006f81bd9c97ac08ecdea675013c19.png</thumbnail>
+		<image>media/images/Street Fighter 2 3c2bf860198f42d786e016e3f9817e23.png</image>
+		<desc>Before the flashy graphics, 3D animation and 30 hit turbo combos, there was the simple dragon punch and fireball. In this very scaled down version of the original Street Fighter II arcade game, you can choose from a select group of warriors including Ryu, Ken, Guile, Blanka, M. Bison, Chun Li, Zangief, Balrog and Sagat, each with a unique fighting style and special moves. Play through the one-player arcade mode and fight your way through each character in the game to the final boss, Bison, or play against a friend in two player mode.</desc>
+		<favorite>true</favorite>
+		<rating>0.64999</rating>
+		<name>Street Fighter II</name>
+	</game>
+</gameList>
